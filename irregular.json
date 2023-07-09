@@ -1,0 +1,153 @@
+{
+  
+  "sum": [
+    [
+      "sum", "es", "est", "sumus", "estis", "sunt"
+    ],
+    [
+      "eram", "eras", "erat", "eramus", "eratis", "erant"
+    ],
+    [
+      "fui", "fuisti", "fuit", "fuimus", "fuistis", "fuerunt"
+    ],
+    [
+      "fueram", "fueras", "fuerat", "fueramus", "fueratis", "fuerant"
+    ],
+    [
+      "ero", "eris", "erit", "erimus", "eritis", "erunt"
+    ],
+    [
+      "es", "este"
+    ],
+    "esse",
+    [
+      "I am", "You are", "He/she/it is", "We are", "You (pl) are", "They are"
+    ],
+  ],
+
+  "possum": [
+    [
+      "possum", "potes", "potest", "possumus", "potestis", "possunt"
+    ],
+    [
+      "poteram", "poteras", "poterat", "poteramus", "poteratis", "poterant"
+    ],
+    [
+      "potui", "potuisti", "potuit", "potuimus", "potuistis", "potuerunt"
+    ],
+    [
+      "potueram", "potueras", "potuerat", "potueramus", "potueratis", "potuerant"
+    ],
+    [
+      "potero", "poteris", "poterit", "poterimus", "poteritis", "poterunt"
+    ],
+    [
+      "potes", "poteste"
+    ],
+    "posse",
+    [
+      "I can", "You can", "He/she/it can", "We can", "You (pl) can", "They can"
+    ]
+  ],
+
+  "volo": [
+    [
+      "volo", "vis", "vult", "volumus", "vultis", "volunt"
+    ],
+    [
+      "volebam", "volebas", "volebat", "volebamus", "volebatis", "volebant"
+    ],
+    [
+      "volui", "voluisti", "voluit", "voluimus", "voluistis", "voluerunt"
+    ],
+    [
+      "volueram", "volueras", "voluerat", "volueramus", "volueratis", "voluerant"
+    ],
+    [
+      "volam", "voles", "volet", "volemus", "voletis", "volent"
+    ],
+    [
+      "vis", "vultis"
+    ],
+    "velle",
+    [
+      "I want", "You want", "He/she/it wants", "We want", "You (pl) want", "They want"
+    ]
+  ],
+
+  "nolo": [
+    [
+      "nolo", "non vis", "non vult", "nolumus", "non vultis", "nolunt"
+    ],
+    [
+      "nolebam", "nolebas", "nolebat", "nolebamus", "nolebatis", "nolebant"
+    ],
+    [
+      "nolui", "noluisti", "noluit", "noluimus", "noluistis", "noluerunt"
+    ],
+    [
+      "nolueram", "nolueras", "noluerat", "nolueramus", "nolueratis", "noluerant"
+    ],
+    [
+      "nolam", "noles", "volet", "nolemus", "noletis", "nolent"
+    ],
+    [
+      "noli", "nolite"
+    ],
+    "nolle",
+    [
+      "I don't want", "You don't want", "He/she/it doesn't want", "We don't want", "You (pl) don't want", "They don't want"
+    ]
+  ],
+
+  "malo": [
+    [
+      "malo", "mavis", "mavult", "malumus", "mavultis", "malunt"
+    ],
+    [
+      "malebam", "malebas", "malebat", "malebamus", "malebatis", "malebant"
+    ],
+    [
+      "malui", "maluisti", "maluit", "maluimus", "maluistis", "maluerunt"
+    ],
+    [
+      "malueram", "malueras", "maluerat", "malueramus", "malueratis", "maluerant"
+    ],
+    [
+      "malam", "males", "malet", "malemus", "maletis", "malent"
+    ],
+    [
+      "mavis", "mavultis"
+    ],
+    "malle",
+    [
+      "I want more", "You want more", "He/she/it wants more", "We want more", "You (pl) want more", "They want more"
+    ]
+  ],
+
+  "fero": [
+    [
+      "fero", "fers", "fert", "ferimus", "fetis", "ferunt"
+    ],
+    [
+      "ferebam", "ferebas", "ferebat", "ferebamus", "ferebatis", "ferebant"
+    ],
+    [
+      "tuli", "tulisti", "tulit", "tulimus", "tulistis", "tulerunt"
+    ],
+    [
+      "tuleram", "tuleras", "tulerat", "tuleramus", "tuleratis", "tulerant"
+    ],
+    [
+      "feram", "feres", "feret", "feremus", "feretis", "ferent"
+    ],
+    [
+      "fers", "ferte"
+    ],
+    "ferre",
+    [
+      "I bear", "You bear", "He/she/it bears", "We bear", "You (pl) bear", "They bear"
+    ]
+  ]
+  
+}
