@@ -1,0 +1,7 @@
+{
+  "porto": ["1", "port", "portavi", "carry", "carries"],
+  "moneo": ["2", "mon", "monui", "warn", "warns"],
+  "traho": ["3", "trah", "traxi", "drag", "drags"],
+  "capio": ["3.5", "cap", "cepi", "capture", "captures"],
+  "audio": ["4", "aud", "audivi", "listen", "listens"]
+}
