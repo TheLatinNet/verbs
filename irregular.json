@@ -127,7 +127,7 @@
 
   "fero": [
     [
-      "fero", "fers", "fert", "ferimus", "fetis", "ferunt"
+      "fero", "fers", "fert", "ferimus", "fertis", "ferunt"
     ],
     [
       "ferebam", "ferebas", "ferebat", "ferebamus", "ferebatis", "ferebant"
@@ -147,6 +147,31 @@
     "ferre",
     [
       "I bear", "You bear", "He/she/it bears", "We bear", "You (pl) bear", "They bear"
+    ]
+  ],
+
+   "effero": [
+    [
+      "effero", "effers", "effert", "efferimus", "effertis", "efferunt"
+    ],
+    [
+      "efferebam", "efferebas", "efferebat", "efferebamus", "efferebatis", "efferebant"
+    ],
+    [
+      "extuli", "extulisti", "extulit", "extulimus", "extulistis", "extulerunt"
+    ],
+    [
+      "extuleram", "extuleras", "extulerat", "extuleramus", "extuleratis", "extulerant"
+    ],
+    [
+      "efferam", "efferes", "efferet", "efferemus", "efferetis", "efferent"
+    ],
+    [
+      "effers", "efferte"
+    ],
+    "efferre",
+    [
+      "I emphasize", "You emphasize", "He/she/it emphasizes", "We emphasize", "You (pl) emphasize", "They emphasize"
     ]
   ]
   
