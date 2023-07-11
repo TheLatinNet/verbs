@@ -173,6 +173,31 @@
     [
       "I emphasize", "You emphasize", "He/she/it emphasizes", "We emphasize", "You (pl) emphasize", "They emphasize"
     ]
+  ],
+
+  [
+   [
+      "inquam", "inquis", "inquit", "-", "-", "inquiunt"
+    ],
+    [
+      "-", "-", "inquiebat", "-", "-", "-"
+    ],
+    [
+      "-", "inquisti", "inquit", "-", "-", "-"
+    ],
+    [
+      "-", "-", "-", "-", "-", "-"
+    ],
+    [
+      "-", "inquies", "inquiet", "-", "-", "-"
+    ],
+    [
+      "inquis", "-"
+    ],
+    "inquere",
+    [
+      "I say", "You say", "He/she/it says", "We say", "You (pl) say", "They say"
+    ]
   ]
   
 }
