@@ -47,7 +47,7 @@
   "advenio": ["4", "adven", "advenivi", "arrive", "arrives"],
   "cado": ["3", "cad", "cecidi", "fall", "falls"],
   "consumo": ["3", "consum", "consumpsi", "eat", "eats"],
-  "curro": ["3", "curr", "cucurri", "run", runs"],
+  "curro": ["3", "curr", "cucurri", "run", "runs"],
   "debeo": ["2", "deb", "debui", "must", "must"],
   "deleo": ["2", "del", "delui", "destroy", "destroys"],
   "discedo": ["3", "disced", "discessi", "depart", "departs"]
