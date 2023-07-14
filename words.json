@@ -22,7 +22,7 @@
   "facio": ["3.5", "fac", "feci", "do", "does", "doing", "did"],
   "lacrimo": ["1", "lacrim", "lacrimavi", "cry", "cries", "crying", "cried"],
   "aedifico": ["1", "aedific", "aedificavi", "build", "builds", "building", "built"],
-  "descendo": ["3", "descend", "descendi", "descend", "descends", "descending:, "descended"],
+  "descendo": ["3", "descend", "descendi", "descend", "descends", "descending", "descended"],
   "effugio": ["3.5", "effug", "effugi", "escape", "escapes", "escaping", "escaped"],
   "bibo": ["3", "bib", "bibi", "drink", "drinks", "drinking", "drank"],
   "do": ["1", "d", "dedi", "give", "gives", "giving", "gave"],
