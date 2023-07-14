@@ -29,7 +29,7 @@
   "dormio": ["4", "dorm", "dormivi", "sleep", "sleeps", "sleeping", "slept"],
   "duco": ["3", "duc", "duxi", "lead", "leads", "leading", "led"],
   "habeo": ["2", "hab", "habui", "have", "has", "having", "had"],
-  "invenio": ["4", "inven", "invenivi", "find", "finds", "found"],
+  "invenio": ["4", "inven", "invenivi", "find", "finds", "finding", "found"],
   "iubeo": ["2", "iub", "iussi", "order", "orders", "ordering", "ordered"],
   "mitto": ["3", "mitt", "misi", "send", "sends", "sending", "sent"],
   "scribo": ["3", "scrib", "scripsi", "write", "writes", "writting", "wrote"],
