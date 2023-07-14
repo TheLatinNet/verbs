@@ -21,8 +21,11 @@
     ],
     "esse",
     [
-      "I am", "You are", "He/she/it is", "We are", "You (pl) are", "They are"
+      "I am", "You are", "He/She/It is", "We are", "You all are", "They are"
     ],
+    [
+      "I was being", "You were being", "He/She/It was being", "We were being", "You all were being", "They were being"
+    ]
   ],
 
   "possum": [
